@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pierlucaanania, MSc stud in Mech Eng at Sapienza Univeristy of Rome
+- 👋 Hi, I’m @pierlucaanania, MSc stud in Mech Eng at Sapienza University of Rome
 - 👀 I’m interested in Artificial Intelligence and its application in engineering fields as energy network or complex energy systems
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on various project on Python to broaden my horizons
