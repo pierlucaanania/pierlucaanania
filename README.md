@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Pier Luca Anania</h1>
 <h3 align="center">M.Sc. in Mechanical Engineering | Energy Major @ Sapienza University of Rome</h3>
 
-- 🔭 I’m currently working as **Junior Research Fellow in Renewable Energy Community @ D.I.M.A. (Department of Mechanical and Aerospace Eng), Sapienza University of Rome**
+- 🔭 I’m currently working as **Junior Research Fellow in Renewable Energy Community @ D.I.M.A. (Department of Mechanical and Aerospace Eng) &rarr;  Sapienza University of Rome**
 
 - 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Control Systems**
 
