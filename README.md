@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pierlucaanania&show_icons=true&theme=dark&locale=en&layout=compact" alt="pierlucaanania" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pierlucaanania&" alt="pierlucaanania" /></p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact&bg_color=060c1a&area=true&radius=10)](https://github.com/pierlucaanania/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact&bg_color=060c1a&area=true&radius=100)](https://github.com/pierlucaanania/github-readme-activity-graph)
 
 <!---
 pierlucaanania/pierlucaanania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
