@@ -23,6 +23,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierlucaanania&" alt="pierlucaanania" /></p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact)](https://github.com/pierlucaanania/github-readme-activity-graph)
+
 <!---
 pierlucaanania/pierlucaanania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
