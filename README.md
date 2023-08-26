@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **AI & Energy related projects**
 
 - 📫 How to reach me **p.l.anania@gmail.com**
-- 🐧 I'm a **Linux** enthusiast and I'm thrilled for **Open Source** projects
+- 🐧 I'm a **Linux** enthusiast and I'm thrilled for **Open Source** projects 🐃
 
 <p align="center"> <em>"Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom." </em></p>
 <p align="center"> <em> Richard Stallman </em></p>
