@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pier Luca Anania</h1>
+<h1 align="center">Hi 👋 I'm Pier Luca Anania</h1>
 <h3 align="center">M.Sc. in Mechanical Engineering | Energy Major @ Sapienza University of Rome</h3>
 
 - 🔭 I’m currently working as **Junior Research Fellow in Renewable Energy Community @ D.I.M.A. (Department of Mechanical and Aerospace Eng), Sapienza University of Rome**
@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierlucaanania&" alt="pierlucaanania" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact)](https://github.com/pierlucaanania/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact&bg_color=060c1a)](https://github.com/pierlucaanania/github-readme-activity-graph)
 
 <!---
 pierlucaanania/pierlucaanania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
