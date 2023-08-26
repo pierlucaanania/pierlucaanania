@@ -10,7 +10,8 @@
 - 📫 How to reach me **p.l.anania@gmail.com**
 - 🐧 I'm a **Linux** enthusiast and I'm thrilled for **Open Source** projects
 
-<p align="center"> <em>"Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom." </em> Richard Stallman </p>
+<p align="center"> <em>"Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom." </em></p>
+<p align="center"> <em> Richard Stallman </em></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pierlucaanania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierlucaanania" height="30" width="40" /></a>
