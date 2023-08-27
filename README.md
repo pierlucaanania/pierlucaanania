@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierlucaanania&layout=compact&theme=dark&cache_seconds=86400)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pierlucaanania&theme=dark&cache_seconds=86400)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact&bg_color=121111&area=true&radius=100&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pierlucaanania&theme=github-compact&bg_color=121111&area=true&radius=100&cache_seconds=8640)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
