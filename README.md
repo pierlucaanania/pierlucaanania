@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **p.l.anania@gmail.com**
 - 🐧 I'm a **Linux** enthusiast and I'm thrilled for **Open Source** projects 🐃
-
+- 🌍 FSA Energy Access Association Board Member / Technical Solidarity ONLUS: projects on SDG7 Energy Access and SDG13 Climate Action
 <p align="center"> <em>"Free software is software that respects your freedom and the social solidarity of your community. So it's free as in freedom." </em></p>
 <p align="center"> <em> Richard Stallman </em></p>
 <h3 align="left">Connect with me:</h3>
