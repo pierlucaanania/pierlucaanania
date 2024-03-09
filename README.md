@@ -3,7 +3,7 @@
 
 
 - 🔥 My fields of interest are **Digitalization in Energy Industry** and **Renewable Energy Systems**, in particular I am strongly interested in **Artificial Intelligence applied to Energy Access and Energy Community Development**
-- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Control Systems**
+- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Energy Modeling**
 
 - 👯 I’m looking to collaborate on **AI & Energy related projects**
 
