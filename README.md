@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pier Luca Anania</h1>
+<h3 align="center">Terna Fellow @ Tyrrhnenian Lab -- Terna SpA & University of Salerno</h3>
 <h3 align="center">M.Sc. in Mechanical Engineering | Energy Major @ Sapienza University of Rome</h3>
 
 
