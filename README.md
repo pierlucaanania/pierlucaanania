@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋 I'm Pier Luca Anania</h1>
-<h3 align="center">Terna Fellow @ Tyrrhenian Lab -- Terna SpA & University of Salerno</h3>
+<h3 align="center">Asset Management Engineer Fellow @ Tyrrhenian Lab -- Terna SpA & University of Salerno</h3>
 <h3 align="center">M.Sc. in Mechanical Engineering | Energy Major @ Sapienza University of Rome</h3>
 
 
 - 🔥 My fields of interest are **Digitalization in Energy Industry** and **Renewable Energy Systems**, in particular I am strongly interested in **Artificial Intelligence applied to Energy Access and Energy Community Development**
-- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Energy Modeling**
+- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning, Energy Modeling, LLM and RAG**
 
 - 👯 I’m looking to collaborate on **AI & Energy related projects**
 
